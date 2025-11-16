@@ -68,4 +68,6 @@ All marathon route data sources are either created by the team or provided by Ca
 ArcGIS Pro Python and ArcPy reference: https://pro.arcgis.com/en/pro-app/3.1/arcpy/main/arcgis-pro-arcpy-reference.htm
 Running stand-alone python scripts: https://pro.arcgis.com/en/pro-app/3.1/arcpy/get-started/using-conda-with-arcgis-pro.htm
 
+Project Report: https://github.com/jiah29/Rerouting-Toronto-Waterfront-Marathon/blob/main/TWM%20Final%20Report.pdf
+
 For any other questions or help, please contact TBC.
